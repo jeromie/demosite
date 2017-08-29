@@ -1,7 +1,10 @@
-contentDir = "content"
-layoutDir = "layouts"
 publishDir = "docs"
-baseURL = "/"
+baseURL = "https://jeromie.github.io/demosite/"
 languageCode = "en-us"
 title = "My Test Site"
-sectionPagesMenu = "main"
+theme = "hugo-material-docs"
+[[menu.main]]
+  name   = "Material"
+  url    = "/"
+  weight = 0
+  pre    = ""

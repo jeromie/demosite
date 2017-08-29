@@ -3,29 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/my-first-post/</loc>
+    <loc>https://jeromie.github.io/demosite/post/second-post/</loc>
+    <lastmod>2017-08-29T14:53:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeromie.github.io/demosite/post/my-first-post/</loc>
     <lastmod>2017-08-28T11:27:08+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>https://jeromie.github.io/demosite/post/</loc>
     <lastmod>2017-08-28T11:27:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeromie.github.io/demosite/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2017-08-28T11:27:08+05:30</lastmod>
+    <loc>https://jeromie.github.io/demosite/</loc>
+    <lastmod>2017-08-29T14:53:57+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://jeromie.github.io/demosite/post/</loc>
+    <lastmod>2017-08-29T14:53:57+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jeromie.github.io/demosite/tags/</loc>
     <priority>0</priority>
   </url>
   

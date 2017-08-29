@@ -2,24 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Test Site</title>
-    <link>/</link>
+    <link>https://jeromie.github.io/demosite/</link>
     <description>Recent content on My Test Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2017 11:27:08 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2017 14:53:57 +0530</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jeromie.github.io/demosite/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>first</title>
-      <link>/post/my-first-post/</link>
+      <title>Second Post</title>
+      <link>https://jeromie.github.io/demosite/post/second-post/</link>
+      <pubDate>Tue, 29 Aug 2017 14:53:57 +0530</pubDate>
+      
+      <guid>https://jeromie.github.io/demosite/post/second-post/</guid>
+      <description>second post title Note
+Nothing to see here, move along.
+ Don&amp;#39;t try this at home
+Nothing to see here, move along.
+ A bunch of code here   #Talitha #Getty #yacht in #fjærland #fjærlandsfjorden #sognefjorden #mundal #norway #landscape #panorama #travel #instagoodmyphoto #justgoshoot #peoplescreatives #visualsoflife #photography #photoshoot #photodaily #photogram #instagood #picoftheday #fjærland #photooftheday #pentax #nrksf #sognavis
+A post shared by Bjørn Erik Pedersen (@bepsays) on Jul 6, 2017 at 9:27am PDT</description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>https://jeromie.github.io/demosite/post/my-first-post/</link>
       <pubDate>Mon, 28 Aug 2017 11:27:08 +0530</pubDate>
       
-      <guid>/post/my-first-post/</guid>
+      <guid>https://jeromie.github.io/demosite/post/my-first-post/</guid>
       <description>Welcome to Hugo! This site has been built and deployed by Distelli!
 This site has been built and deployed by Distelli!
+This site has been built and deployed by Distelli!
+This site has been built and deployed by Distelli!
+This site has been built and deployed by Distelli!
+This site has been built and deployed by Distelli!
+This site has been built and deployed by Distelli!
 This site has been built and deployed by Distelli!</description>
+    </item>
+    
+    <item>
+      <title>post</title>
+      <link>https://jeromie.github.io/demosite/post/</link>
+      <pubDate>Mon, 28 Aug 2017 11:27:08 +0530</pubDate>
+      
+      <guid>https://jeromie.github.io/demosite/post/</guid>
+      <description>post title post content</description>
     </item>
     
   </channel>
