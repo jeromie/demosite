@@ -1,6 +1,6 @@
 contentDir = "content"
 layoutDir = "layouts"
-publishDir = "public"
+publishDir = "docs"
 baseURL = "/"
 languageCode = "en-us"
 title = "My Test Site"
